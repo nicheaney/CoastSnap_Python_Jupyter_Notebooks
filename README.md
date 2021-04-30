@@ -1,2 +1,4 @@
 # CoastSnap_Python_Jupyter_Notebooks
-Jupyter notebooks presenting equivalent Python code to the Original MATLAB code.
+Jupyter notebooks present the critical functionality in CoastSnap's MATLAB and the equivalent functionality using Python.
+
+To use MATLAB in Jupyter Notebook, Jupyter-MATLAB must be installed using steps described here: https://am111.readthedocs.io/en/latest/jmatlab_install.html
